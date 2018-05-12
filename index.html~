@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<title>
+			CSS_ART
+		</title>
+	</head>
+
+	<body>
+		<header>
+			CSS_ART
+		</header>
+
+		<nav>
+			<ul>
+				<li>BB-8</li>
+			</ul>
+		</nav>
+
+		<section>
+			<div class="box">
+				<div class="face">
+				</div>
+
+				<div class="ears">
+				</div>
+			</div>
+		</section>
+	
+	</body>
+</html>
